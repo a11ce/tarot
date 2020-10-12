@@ -13,9 +13,9 @@
 - Check out [the card database](../master/cards/cards.csv)
 
 ## File summary
--`cards/cards.py`: The card database, including name, meaning, and various aspects
--`draw.py`: Digital tarot
--`tarot.py`: General utility functions
+- `cards/cards.py`: The card database, including name, meaning, and various aspects
+- `draw.py`: Digital tarot
+- `tarot.py`: General utility functions
 
 --- 
 
