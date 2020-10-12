@@ -1,0 +1,79 @@
+Name,Thoth Name,Element,Sign,Quality,Planet,Summary
+0 - The Fool,0: The Fool,Air,,,Uranus,Change and new beginnings
+I – The Magician,I: The Magus,Air,,,Mercury,Communication and travel
+II – The High Priestess,II: The Priestess,Water,,,Moon,Intuition and memory
+III – The Empress,III: The Empress,Earth,,,Venus,"Love, comfort, art, and security"
+IV – The Emperor,IV: The Emperor,Fire,Aries,,,The leader
+V – The Hierophant,V: The Hierophant,Earth,Taurus,,,Order and rule
+VI – The Lovers,VI: The Lovers,Air,Gemini,,,Choice and duality
+VII - The Chariot,VII: The Chariot,Water,Cancer,,,"Success, protection, and emotions"
+VIII – Strength,XI: Lust,Fire,Leo,,,"Resilience, control, and glory"
+IX – The Hermit,IX: The Hermit,Earth,Virgo,,,Analytical thought
+X – Wheel of Fortune,X: Fortune,Fire,,,Jupiter,Growth and wisdom
+XI – Justice,VIII: Adjustment,Air,Libra,,,Balance
+XII – The Hanged Man,XII: The Hanged Man,Water,,,Neptune,"Inability to move forward due to illusion, uncertainty, and delusion"
+XIII – Death,XIII: Death,Water,Scorpio,,,Transformation
+XIV – Temperance,XIV: Art,Fire,Sagittarius,,,Understanding through reason and moderation
+XV – The Devil,XV: The Devil,Earth,Capricorn,,,Letting go of fear and moving towards liberation
+XVI – The Tower,XVI: The Tower,Fire,,,Mars,"Unexpected change and action, or arguments"
+XVII – The Star,XVII: The Star,Air,Aquarius,,,Inspiration and humanitarianism
+XVIII – The Moon,XVIII: The Moon,Water,Pisces,,,Imagination and intuition
+XIX – The Sun,XIX: The Sun,Fire,,,Sun,Ego and Will
+XX – Judgement,XX: The Æon,Fire/Water,,,Pluto,"Change, growth, all efforts to rebuild and release"
+XXI – The World,XXI: The Universe,Earth,,,Saturn,Rewards through completion
+Ace of Wands,The Root of the Powers of Fire,Fire,Aries/Leo/Sagittarius,,,"Inspiration, new opportunities, growth, potential"
+Two of Wands,Dominion,Fire,Aries,Cardinal,Mars,"Planning, progress, decision, discovery"
+Three of Wands,Virtue,Fire,Aries,Cardinal,Sun,"Expansion, foresight, opportunity"
+Four of Wands,Completion,Fire,Aries,Cardinal,Venus,"Celebration, joy, relaxation"
+Five of Wands,Strife,Fire,Leo,Fixed,Saturn,"Competition, tension, conflict"
+Six of Wands,Victory,Fire,Leo,Fixed,Jupiter,"Public recognition, self-confidence"
+Seven of Wands,Valour,Fire,Leo,Fixed,Mars,"Challenge, competition, perseverance"
+Eight of Wands,Swiftness,Fire,Sagittarius,Mutable,Mercury,"Action, movement, swift change"
+Nine of Wands,Strength,Fire,Sagittarius,Mutable,Moon,"Courage, persistence, resilience"
+Ten of Wands,Oppression,Fire,Sagittarius,Mutable,Saturn,"Burden, responsibility, work, completion"
+Page of Wands,Princess of Wands,Fire,,,,"Enthusiasm, exploration, discovery, free spirit"
+Knight of Wands,Prince of Wands,Water/Fire,Scorpio/Sagittarius,,,"Energy, passion, action, adventure, impulsiveness"
+Queen of Wands,Queen of Wands,Water/Fire,Pisces/Aries,,,"Warmth, passion, determination"
+King of Wands,Knight of Wands,Water/Fire,Cancer/Leo,,,"Natural leader, vision, honour"
+Ace of Pentacles,The Root of the Powers of Earth,Earth,Taurus/Virgo/Capricorn,,,"Manifestation, opportunity, prosperity"
+Two of Pentacles,Change,Earth,Capricorn,Cardinal,Jupiter,"Balance, adaptability, prioritization"
+Three of Pentacles,Works,Earth,Capricorn,Cardinal,Mars,"Teamwork, collaboration, learning"
+Four of Pentacles,Power,Earth,Capricorn,Cardinal,Sun,"Saving money, security, control, scarcity"
+Five of Pentacles,Worry,Earth,Taurus,Fixed,Mercury,"Isolation, insecurity, worry, loss, poverty"
+Six of Pentacles,Success,Earth,Taurus,Fixed,Moon,"Gifts, generosity, charity"
+Seven of Pentacles,Failure,Earth,Taurus,Fixed,Saturn,"Vision, perseverance, reward, prosperity"
+Eight of Pentacles,Prudence,Earth,Virgo,Mutable,Sun,"Repetition, mastery, development"
+Nine of Pentacles,Gain,Earth,Virgo,Mutable,Venus,"Gratitude, luxury, self-sufficiency, culmination"
+Ten of Pentacles,Wealth,Earth,Virgo,Mutable,Mercury,"Wealth, family, establishment"
+Page of Pentacles,Princess of Disks,Earth,,,,"Manifestation, opportunity, wealth"
+Knight of Pentacles,Prince of Disks,Fire/Earth,Leo/Virgo,,,"Work, routine, scarcity"
+Queen of Pentacles,Queen of Disks,Fire/Earth,Sagittarius/Capricorn,,,"Practicality, warmth, security"
+King of Pentacles,Knight of Disks,Fire/Earth,Aries/Taurus,,,"Wealth, leadership, security, discipline, abundance"
+Ace of Cups,The Root of the Powers of Water,Water,Cancer/Scorpio/Pisces,,,"Love, compassion, creativity"
+Two of Cups,Love,Water,Cancer,Cardinal,Venus,"True love, partnership, mutual attraction"
+Three of Cups,Abundance,Water,Cancer,Cardinal,Mercury,"Celebration, friendship, creativity, collaboration"
+Four of Cups,Luxury,Water,Cancer,Cardinal,Moon,"Meditation, apathy, re-evaluation"
+Five of Cups,Disappointment,Water,Scorpio,Fixed,Mars,"Regret, failure, disappointment, pessimism"
+Six of Cups,Pleasure,Water,Scorpio,Fixed,Sun,"Nostalgia, memory, joy"
+Seven of Cups,Debauch,Water,Scorpio,Fixed,Venus,"Opportunity, choice, illusion"
+Eight of Cups,Indolence,Water,Pisces,Mutable,Saturn,"Disappointment, abandonment, withdrawal, escapism"
+Nine of Cups,Happiness,Water,Pisces,Mutable,Jupiter,"Contentment, satisfaction, gratitude, wish come true"
+Ten of Cups,Satiety,Water,Pisces,Mutable,Mars,"Harmony, love, happiness, alignment, satisfaction"
+Page of Cups,Princess of Cups,Water,,,,"Creativity, opportunity, intuition, curiosity, possibility"
+Knight of Cups,Prince of Cups,Air/Water,Aquarius/Pisces,,,"Creativity, romance, charm, imagination, beauty"
+Queen of Cups,Queen of Cups,Air/Water,Gemini/Cancer,,,"Emotional security, intuition, compassion"
+King of Cups,Knight of Cups,Air/Water,Libra/Scorpio,,,"Emotional balance, compassion, diplomacy"
+Ace of Swords,The Root of the Powers of Air,Air,Gemini/Libra/Aquarius,,,"Breakthrough, new ideas, mental clarity, success"
+Two of Swords,Peace,Air,Libra,Cardinal,Moon,"Difficult choices, impasse, truce"
+Three of Swords,Sorrow,Air,Libra,Cardinal,Saturn,"Heartbreak , emotional pain, hurt"
+Four of Swords,Truce,Air,Libra,Cardinal,Jupiter,"Rest, relaxation, contemplation, recovery"
+Five of Swords,Defeat,Air,Aquarius,Fixed,Venus,"Conflict, disagreement, competition, defeat, winning at all costs"
+Six of Swords,Science,Air,Aquarius,Fixed,Mercury,"Sad but needed, letting go of baggage"
+Seven of Swords,Futility,Air,Aquarius,Fixed,Moon,"Betrayal, deception, getting away with something"
+Eight of Swords,Interference,Air,Gemini,Mutable,Jupiter,"Isolation, self-imposed restriction"
+Nine of Swords,Cruelty,Air,Gemini,Mutable,Mars,"Indecision, truce, stalemate, blocked emotion"
+Ten of Swords,Ruin,Air,Gemini,Mutable,Mercury,"Painful end, deep wounds, betrayal, loss, crisis"
+Page of Swords,Princess of Swords,Air,,,,"Talkative, curious, mentally restless, energetic"
+Knight of Swords,Prince of Swords,Earth/Air,Taurus/Gemini,,,"Ambition, action, fast-thinking"
+Queen of Swords,Queen of Swords,Earth/Air,Virgo/Libra,,,"Independence, unbiased judgement, clear boundaries, direct communication"
+King of Swords,Knight of Swords,Earth/Air,Capricorn/Aquarius,,,"Mental clarity, intellectual power, authority, truth"
