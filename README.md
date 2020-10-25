@@ -1,6 +1,6 @@
 # tarot
 
-> Digital tarot and card database
+> Card database and digital tarot drawing.
 
 ## Setup
 
