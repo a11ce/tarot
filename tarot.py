@@ -25,10 +25,10 @@ def asMonoLine(card):
 
 def as60WidthLines(card):
     data = list(card.values())
-    s = "```\n{}\t({})\n".format(data[0], data[1])
+    s = "{}\t({})\n".format(data[0], data[1])
     s += "\t{}\n".format(",".join(
         [aspect for aspect in data[2:6] if aspect != ""]))
-    s += "\t{}\n```".format(data[6])
+    s += "\t{}".format(data[6])
     return s
 
 
